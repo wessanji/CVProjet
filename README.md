@@ -35,12 +35,4 @@ Vous pouvez personnaliser ce CV en modifiant les informations suivantes :
 
 Le CV est conçu pour être épuré et professionnel, tout en étant visuellement attrayant grâce à des couleurs douces et une mise en page claire. Le design est entièrement réactif, ce qui garantit une bonne expérience sur tous les appareils.
 
----
 
-### Conseils supplémentaires :
-
-- **Ajoute des liens vers ton LinkedIn ou GitHub** dans ton CV si tu veux offrir plus d'informations professionnelles ou un portfolio en ligne.
-- **Vérifie que Tailwind CSS fonctionne correctement** avec ton projet. Si tu utilises un build tool comme **PostCSS**, assure-toi que la configuration est bien en place.
-- **Optimise l’image de profil** pour qu’elle soit légère en taille et bien adaptée à l’affichage sur différents écrans.
-
----
