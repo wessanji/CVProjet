@@ -18,7 +18,7 @@ Ce projet consiste en la création d'un CV responsive et moderne en utilisant **
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/nom-du-repository.git
+   git clone https://github.com/wessanji/CVProjet.git
    ```
 
 2. Ouvrez le fichier `CV.html` dans votre navigateur pour visualiser le CV.
